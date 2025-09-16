@@ -1,4 +1,4 @@
 
-# CDSIH: Contrastive Disentangled Signed-Intent Hypergraph Modeling for Precision Gene-Drug Association Prediction
+# Disentangled Contrastive Learning with Dynamic Intent Adaptation for Unveiling Gene-Drug Associations
 
-![image](https://github.com/wangxiaosong96/CDSIH/blob/main/fig.png)
+

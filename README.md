@@ -4,15 +4,20 @@
 Open source for "Disentangled Contrastive Learning with Dynamic Intent Adaptation for Unveiling Gene-Drug Associations"
 
 # Environment
-The codes are written in Python 3.8.13 with the following dependencies.
+The code is implemented in Python 3.8.13. Key dependencies include:
+
+Python 3.8.13
 
 numpy == 1.22.3
+
 pytorch == 1.11.0 (GPU version)
+
 torch-scatter == 2.0.9
+
 torch-sparse == 0.6.14
+
 scipy == 1.9.3
 
-Dataset
 # Dataset
 
 We evaluated our model using three publicly available gene-drug interaction datasets:

@@ -2,7 +2,7 @@
 # DIACL
 
 Open source for "Disentangled Contrastive Learning with Dynamic Intent Adaptation for Unveiling Gene-Drug Associations"
-![Disentangled Contrastive Learning with Dynamic Intent Adaptation for Unveiling Gene-Drug Associations](https://github.com/wangxiaosong96/DIACL/blob/main/figure%201.png)
+![Disentangled Contrastive Learning with Dynamic Intent Adaptation for Unveiling Gene-Drug Associations](https://github.com/wangxiaosong96/DIACL/blob/main/DIACL.png)
 
 # Environment
 The code is implemented in Python 3.8.13. Key dependencies include:
